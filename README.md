@@ -2,7 +2,7 @@
 
 A **modern dark theme** with vibrant pulse accents for focused coding.  
 
-![Screenshot](./images/screenshot.png)  
+![Screenshot](./images/image.png)  
 
 ## 🎨 Features  
 ✔ **Deep dark background** (reduces eye strain)  
@@ -17,7 +17,7 @@ A **modern dark theme** with vibrant pulse accents for focused coding.
 4. Go to **File > Preferences > Color Theme** and select **"Midnight Pulse"**.  
 
 ## 🔧 Manual Installation  
-1. Download the `.vsix` from [Releases](https://github.com/harshitchaunal321/midnight-pulse/releases).  
+1. Download the `.vsix` from [Releases](https://github.com/harshitchaunal321/midnight-pulse/).  
 2. Run:  
    ```bash
    code --install-extension midnight-pulse-1.0.0.vsix
