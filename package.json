@@ -2,7 +2,7 @@
   "name": "midnight-pulse",
   "displayName": "Midnight Pulse",
   "description": "A modern dark theme with vibrant pulse accents for focused coding",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "publisher": "harshitchaunal321",
   "engines": {
     "vscode": "^1.100.0"
