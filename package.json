@@ -1,0 +1,38 @@
+{
+  "name": "midnight-pulse",
+  "displayName": "Midnight Pulse",
+  "description": "A modern dark theme with vibrant pulse accents for focused coding",
+  "version": "1.0.0",
+  "publisher": "harshitchaunal321",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Pulse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Pulse-color-theme.json"
+      }
+    ]
+  },
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harshitchaunal321/midnight-pulse"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "modern",
+    "developer",
+    "vibrant"
+  ],
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  }
+}
